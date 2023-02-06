@@ -1,4 +1,4 @@
-# JS-4nd-Lesson  
+# JS-4th-Lesson  
 ### task 1:function which creates an array of email addresses not blacklisted.
 ### task 2: function applying disconts to product`s cart.
 Task 1...  
